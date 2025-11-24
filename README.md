@@ -16,7 +16,6 @@ A simple machine learning project that predicts house prices based on size, numb
 - [Example Output](#example-output)
 - [Customization](#customization)
 - [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ---
 
